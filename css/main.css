@@ -11,3 +11,7 @@ ul {
 h1 {
     color: blueviolet;
 }
+#banner {
+    padding: 20px;
+    background-color: green;
+}
